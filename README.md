@@ -27,7 +27,7 @@
 - used for chapter 3.2 (A Four Neuron Model for Direction Selectivity) and 4 (On Learning Selective Weights through Plasticity) 
 
 ### Folder Implementation
-- The initial code was given by Sigrid Trägenap that I slightly modified for this project.
+- The initial code files were given by Sigrid Trägenap that I slightly modified for this project.
 - contains functions of numerical simulation and network model
 
 
