@@ -18,7 +18,8 @@
 
 ### Figure_4.3bcd_BarPlotsWeights.py
 - given data from NumericalStimulation.py with plasticity
-- Figure 4.3 b,c,d: Bar plot of fitte parameter values $T$, $m_{start}$, $m_{end}$ for model 1,2,3 and test 1,2,3,4
+- Figure 4.3 b,c,d: Bar plot of fitted parameter values $T$, $m_{start}$, $m_{end}$ for model 1,2,3 and test 1,2,3,4
+- Plots additional weight fits for model 1,2,3 and test 1,2,3,4
 
 ### ParameterSearchConnectivity.py
 - runs grid search to find similar initial conditions across models
